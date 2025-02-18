@@ -16,8 +16,8 @@ Bu rehber, projenize chat modülünü nasıl ekleyeceğinizi ve kullanacağını
 
 ### Gereksinimler
 
-- Flutter SDK (>=2.0.0)
-- Dart (>=2.12.0)
+- Flutter SDK (>=1.17.0)
+- Dart (>=3.6.1 <4.0.0)
 - [Provider](https://pub.dev/packages/provider) paketi (State management için)
 
 ### Kurulum
