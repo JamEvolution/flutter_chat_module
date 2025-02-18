@@ -28,4 +28,4 @@ Bu rehber, projenize chat modülünü nasıl ekleyeceğinizi ve kullanacağını
    dependencies:
      flutter:
        sdk: flutter
-     provider: ^6.0.0
+     provider: ^6.1.2
